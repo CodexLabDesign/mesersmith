@@ -1,8 +1,8 @@
 # Salut! Sunt Marius Filon 👋
 
-**[RO]** Electronist cu peste 15 ani de experiență în diagnosticare și reparații. Creez soluții software sub brandul **CodeLab Design** – de la automatizări complexe pentru laboratoare de electronică și managementul stocurilor, până la utilitare desktop pentru productivitate. Transform provocările tehnice în instrumente software eficiente, testate și gata de utilizare.
+**[RO]** Electronist cu peste 35 ani de experiență în diagnosticare și reparații. Creez soluții software sub brandul **CodeLab Design** – de la automatizări complexe pentru laboratoare de electronică și managementul stocurilor, până la utilitare desktop pentru productivitate. Transform provocările tehnice în instrumente software eficiente, testate și gata de utilizare.
 
-**[EN]** Electronics Engineer with 15+ years of experience in diagnostics and repair. I build software solutions under the **CodeLab Design** brand – from complex automation for electronics labs and inventory management to desktop utilities for productivity. I turn technical challenges into efficient, tested, and ready-to-use code solutions.
+**[EN]** Electronics Engineer with 35+ years of experience in diagnostics and repair. I build software solutions under the **CodeLab Design** brand – from complex automation for electronics labs and inventory management to desktop utilities for productivity. I turn technical challenges into efficient, tested, and ready-to-use code solutions.
 
 ---
 
