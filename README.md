@@ -27,7 +27,7 @@ See how our software solutions come to life and how they can streamline your lab
 ---
 
 ### 📧 Contact
-*   **Email:** marius.filon1972@gmail.com
+*   **Email:** codexlabdesign@gmail.com
 
 ---
 *Each line of code is written with engineering precision, tested in real-world environments, and optimized for maximum efficiency.*
