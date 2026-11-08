@@ -14,9 +14,9 @@
 *   And all other software currently in development.
 
 ### ⚙️ Tech Stack
-*   **Languages:** Python,Flutter / Dart, SQL / PostgreSQL, VBA
-*   **Platforms:** Microsoft Access, Windows Automation
-*   **Hardware:** Oscilloscopes, RLC Meters, Component-level diagnostics
+*   **Languages:** Python, Flutter / Dart, SQL / PostgreSQL, VBA, AutoHotkey
+*   **Platforms & Cloud:** Microsoft Access, Windows Automation, Cloudflare Pages & R2, Supabase
+*   **Hardware & Diagnostics:** Oscilloscopes, RLC Meters, Component-level diagnostics
 
 ---
 
