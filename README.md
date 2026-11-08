@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ CodeLab Design
+### 🛠️ CodexLab Design
 *My space where I turn technical challenges into efficient software tools.*
 
 ### 🚀 Proiecte Recomandate / Featured Projects
